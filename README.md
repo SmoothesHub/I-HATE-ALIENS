@@ -12,10 +12,10 @@
   </a>
 </p>
 
-I HATE ALIENS removes the dumb alien ship in the sky.
-
-<br>
+<p align="center">
+  A lightweight Gorilla Tag mod that removes the giant alien ship from the sky, along with its sounds and particle effects, while leaving the rest of the alien update untouched.
+</p>
 
 <p align="center">
-  <img src="./Image%20for%20I%20HATE%20ALIENS.png" alt="I HATE ALIENS Preview" width="650">
+  <img src="./I-HATE-ALIENS.png" alt="I HATE ALIENS Preview" width="650">
 </p>
